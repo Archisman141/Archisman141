@@ -27,5 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archisman141&show_icons=true&locale=en" alt="archisman141" /></p>
 
-
-cm298vrj5306870cjyr0dxiuir.
