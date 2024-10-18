@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archisman141&show_icons=true&locale=en" alt="archisman141" /></p>
 
-[![An image of @archisman141's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archisman141)](https://holopin.io/@archisman141)
+[![An image of @archisman141's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archisman141)](https://holopin.io/@archisman141)[holopin]
