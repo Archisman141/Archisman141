@@ -28,3 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archisman141&show_icons=true&locale=en" alt="archisman141" /></p>
 
 [![An image of @archisman141's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archisman141)](https://holopin.io/@archisman141)
+
+<h3 align="left">GSSOC Badges:</h3>
+<a href="https://gssoc.girlscript.tech/contributorAnalytics">
+  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" alt="GSSoC Champion Badge" />
+</a>
+<a href="https://gssoc.girlscript.tech/contributorAnalytics">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Champion Badge" />
+</a>
