@@ -51,6 +51,3 @@
 <a href="https://gssoc.girlscript.tech/contributorAnalytics">
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="Champion Badge" width="150" height="150"/>
 </a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="C:\Users\archi\Downloads\Hack-Web3Conf2024Badge(2).png" alt="Web3Hack Badge" width="150" height="150"/>
-</a>
