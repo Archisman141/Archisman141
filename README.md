@@ -31,23 +31,3 @@
 
 [![An image of @archisman141's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/archisman141)](https://holopin.io/@archisman141)
 
-<h3 align="left">🏆 GSSOC Badges:</h3>
-<p align="center">
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" alt="Postman Badge" width="150" height="150"/>
-</a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="Explorer Badge" width="150" height="150"/>
-</a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" alt="Adventurer Badge" width="150" height="150"/>
-</a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" alt="TrailBlazer Badge" width="150" height="150"/>
-</a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" alt="Summit Seeker Badge" width="150" height="150"/>
-</a>
-<a href="https://gssoc.girlscript.tech/contributorAnalytics">
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" alt="Champion Badge" width="150" height="150"/>
-</a>
